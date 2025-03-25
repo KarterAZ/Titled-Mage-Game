@@ -1,0 +1,26 @@
+[
+	{
+		"file": "C:\\Users\\kazwe\\Documents\\Github\\Titled-Mage-Game\\Source\\titled_mage_game\\titled_mage_game.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\kazwe\\Documents\\Github\\Titled-Mage-Game\\.vscode\\compileCommands_titled_mage_game\\titled_mage_game.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\kazwe\\Documents\\Github\\Titled-Mage-Game\\Source\\titled_mage_game\\titled_mage_game.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\kazwe\\Documents\\Github\\Titled-Mage-Game\\.vscode\\compileCommands_titled_mage_game\\titled_mage_game.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\kazwe\\Documents\\Github\\Titled-Mage-Game\\Source\\titled_mage_game\\titled_mage_game.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\kazwe\\Documents\\Github\\Titled-Mage-Game\\.vscode\\compileCommands_titled_mage_game\\titled_mage_game.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	}
+]
