@@ -2,25 +2,23 @@
     "configurations": [
         {
             "name": "titled_mage_gameEditor Editor Win64 Development (titled_mage_game)",
-            "intelliSenseMode": "msvc-x64", 
-			"compileCommands": "", 
-			"cStandard": "c17",
-			"cppStandard": "c++17", 
-			"includePath": [
-				"${workspaceFolder}\\**"
-			],
-            "defines": [
-                "UNICODE", 
-				"_UNICODE", 
-				"__UNREAL__", 
-				"UBT_COMPILED_PLATFORM=Windows", 
-				"WITH_ENGINE=1", 
-				"WITH_UNREAL_DEVELOPER_TOOLS=1", 
-				"WITH_APPLICATION_CORE=1", 
-				"WITH_COREUOBJECT=1" 
-            ],
-            "windowsSdkVersion": "10.0.22621.0",
-            "compilerPath": "cl.exe",
+            "compilerPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++20",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": [
+                "C:\\Users\\kazwe\\Documents\\Github\\Titled-Mage-Game\\.vscode\\compileCommands_titled_mage_game.json"
+            ]
+        },
+        {
+            "name": "Win32",
+            "compilerPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++20",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": [
+                "C:\\Users\\kazwe\\Documents\\Github\\Titled-Mage-Game\\.vscode\\compileCommands_Default.json"
+            ]
         }
     ],
     "version": 4
